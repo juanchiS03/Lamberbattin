@@ -1,0 +1,2 @@
+gcc tests/test_LAMBERBATTIN.c src/*.c -lm -o bin/test_LAMBERBATTIN.exe 
+pause
